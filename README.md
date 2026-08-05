@@ -27,3 +27,15 @@ Training Accuracy & Loss Graphs
 
 Streamlit Web Application
 
+# Technologies Used
+Python,
+TensorFlow / Keras,
+OpenCV,
+NumPy,
+Pandas,
+Matplotlib,
+Scikit-learn,
+Streamlit
+
+# Output 
+To see the output image, go to the media file and check the output image
