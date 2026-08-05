@@ -10,12 +10,20 @@ This project uses Computer Vision and Deep Learning to automate fruit quality in
 
 # Features
 Image Classification using MobileNetV2
+
 Transfer Learning
+
 Image Preprocessing
+
 Data Augmentation
+
 Model Fine-Tuning
+
 Confusion Matrix
+
 Classification Report
+
 Training Accuracy & Loss Graphs
+
 Streamlit Web Application
-Easy Deployment
+
